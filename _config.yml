@@ -1,0 +1,14 @@
+# Site settings
+
+title: Jaaam
+description: A simple blog using Jekyll
+baseurl: ""
+url: "https://example.com"
+
+# Blog settings
+
+username: craigchilds
+
+# Build settings
+
+markdown: kramdown
